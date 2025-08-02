@@ -5,7 +5,7 @@ Workshop Data Engineer
 ไฟล์ข้อมูลนี้มาจาก Workshop ในคอร์ส Road to Data Engineer
 
 workshop1 Data Collection
-workshop2 Data Cleansing 
+workshop2 Data Cleansing
 workshop3 Cloud Computing --> Upload and Download Bucket (Google Cloud Storage)
 workshop4 Data Pipeline Orchestration --> Managed Airflow (Google Cloud Composer)
 workshop5 Data Warehouse (Google BigQuery)
