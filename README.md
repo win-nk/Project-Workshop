@@ -15,3 +15,4 @@ workshop4 Data Pipeline Orchestration --> Managed Airflow (Google Cloud Composer
 workshop5 Data Warehouse (Google BigQuery)
 
 workshop6 Data Visualization --> Report & Dashboard (Looker Studio)
+https://lookerstudio.google.com/reporting/74f42764-946e-4760-9e01-6906a4c1659f
